@@ -11,3 +11,5 @@ There are few topics that polarize as much as Donald Trump's tweets. This projec
 * Improve model
 * Improve explainability
 * Implement a dashboard for predicting the number of retweets of a new tweet
+
+Team Project for the subject of Data Mining at the University of Mannheim
